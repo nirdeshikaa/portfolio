@@ -1,0 +1,17 @@
+packages:
+  "framer-motion": "For high-quality scroll reveals, typing animations, and smooth interactive elements"
+  "clsx": "For conditional class merging in reusable UI components"
+  "tailwind-merge": "For resolving tailwind class conflicts"
+
+images:
+  - path: "artifacts/nirdeshika-portfolio/public/images/hero-portrait.png"
+    description: "High-fashion editorial style portrait of a confident young woman with subtle neon pink and gold cinematic lighting against a dark plum background"
+    aspect_ratio: "3:4"
+  - path: "artifacts/nirdeshika-portfolio/public/images/mesh-bg.png"
+    description: "Luxurious abstract fluid gradient mesh background blending deep plum-black, vibrant hot pink, and subtle gold undertones"
+    aspect_ratio: "16:9"
+
+notes:
+  - Frontend-only personal portfolio application.
+  - No backend API needed; all content is statically rendered based on the provided specifications.
+  - Relying on framer-motion for complex scroll reveals and the typewriter effect.
